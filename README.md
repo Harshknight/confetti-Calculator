@@ -25,6 +25,9 @@ Make sure to install the following:
 1. Clone the repository: `git clone https://github.com/your-username/Confetti-Calculator-App.git`
 2. Navigate to the project directory: `cd Confetti-Calculator-App`
 3. Install dependencies: `npm install`
+4. npx create-react-app calculator
+5.  import confetti from 'canvas-confetti'
+6.  npm install @mui/material @emotion/react @emotion/styled
 
 ### Run the App
 To run the app locally, use the following command:
